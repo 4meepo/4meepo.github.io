@@ -1,0 +1,11 @@
+
+baseURL: "https://4meepo.github.io" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: 4meepo
+paginate: 5
+# https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode
+theme: papermod
+
+params:
+    # defaultTheme: light
+    # defaultTheme: dark
+    defaultTheme: auto # to sw
